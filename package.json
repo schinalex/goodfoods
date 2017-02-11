@@ -1,0 +1,24 @@
+{
+  "name": "goodfoods",
+  "version": "0.0.1",
+  "description": "a website for food, I suppose...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schinalex/goodfoods.git"
+  },
+  "keywords": [
+    "food",
+    "good",
+    "very"
+  ],
+  "author": "Alex Schin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schinalex/goodfoods/issues"
+  },
+  "homepage": "https://github.com/schinalex/goodfoods#readme"
+}
